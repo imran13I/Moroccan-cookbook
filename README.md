@@ -1,3 +1,3 @@
 # Moroccan-cookbook
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/imran13I/Moroccan-cookbook)
+the real Moroccan recipes/الوصفات المغربية الأصلية (https://moroccan-cookbook.netlify.app/)
