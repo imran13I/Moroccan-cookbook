@@ -11,7 +11,7 @@ export default function Header() {
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
                       <div className="flex items-center gap-3">
                                 <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-saffron-500 to-terracotta-600 flex items-center justify-center text-white font-bold text-xl shadow-md">
-                                            ط
+                                            
                                                       </div>
                                                                 <div>
                                                                             <span className="font-bold text-lg block text-zellige-900 dark:text-saffron-50">
